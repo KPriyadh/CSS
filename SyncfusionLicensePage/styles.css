@@ -1,0 +1,116 @@
+.Main{
+    width:100%
+}
+.Header{
+    background-color: black;
+    
+}
+.Logo{
+   position:relative;
+   left:11%;
+   
+}
+.ul{
+    background-color: black;
+    float:right;
+    position:relative;
+    left:-34%;
+    top:-81px;
+    height:65px;
+    border-color:black;
+}
+.li{
+    background-color: black;
+    display: inline-block; 
+    height:65px;  
+    margin-left:5px;
+    line-height:4;
+    padding: 0px 12px;
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size:1rem;
+    border:none;
+    
+}
+.link{
+    text-decoration: none; 
+    color:white;   
+}
+.li:hover{
+    background-color: rgb(109, 106, 106);
+}
+.Bookbutton{
+    float:left;
+    border-color:white;
+    font-weight: bold;
+    background-color: black;
+    color:white;
+    font-size:.8rem;
+    border-radius:5px;
+    padding:12px 20px;;
+    position:relative;
+    left:1015px;
+    top:-54px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.Bookbutton:hover{
+    background-color: white;
+    color:black;
+}
+.Trybutton{
+    float:left;
+    
+    font-weight: bold;
+    background-color: rgb(9, 136, 255);
+    color:white;
+    font-size:.8rem;
+    border-radius:5px;
+    line-height:3.2;
+    padding:0 20px;
+    position:relative;
+    left:1040px;
+    top:-55px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+
+}
+.list{
+    clear:both;
+}
+.License{
+    background-color:#0b0f91;
+    padding-top:10px 
+}
+.licensetitle{
+    color:white;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    text-align: center ; 
+    padding-left:500px; 
+    font-size:2rem;
+}
+.licensecontent{
+    color:white;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-align:center ;  
+    position:relative;
+    left:-20px;
+    font-size:1.2rem;
+}
+.uli{
+   
+    
+    position: relative;
+    left:390px;
+    
+}
+.lis{
+    background-color:#0c1074;
+    color:white;
+    font-size:1.1rem;
+    padding:15px 30px;
+    border:none;
+    margin-right:7px;
+}
+.lis:hover{
+    background-color:#033ea9;
+    background-color:;
+}

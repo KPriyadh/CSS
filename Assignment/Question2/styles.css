@@ -1,0 +1,22 @@
+.main{
+    width:100%;
+    position: relative;
+    top:-50px;
+}
+.img{
+    position:relative;
+    top:-40px;
+    
+
+}
+.topic{
+    font-size:4rem;
+    font-family:Arial, sans-serif;
+    
+}
+.foot{
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 2rem;
+    text-align: center;
+    
+}

@@ -1,0 +1,43 @@
+.ul{
+    background-color:plum;
+    list-style: none;
+    padding-left: 0px;
+    padding-right:5px;
+    padding-top:30px;
+    display:inline-block;
+}
+button{
+    background-color:palevioletred;
+    display: inline-block;
+    line-height:3;
+    padding-left: 30px ;
+    padding-right:90px;   
+    cursor:pointer;
+    font-size:1.1rem;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.dropdown{
+    display:none;
+    z-index:1;
+}
+
+.dropdown a{
+    text-decoration: none;
+    background-color: whitesmoke;
+    display: block;
+    padding-top:10px;
+    padding-left:30px;
+    padding-bottom: 10px;
+    
+    color:black;
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+.dropdown a:hover{
+    background-color: rgb(49, 143, 49);
+    color:white;
+    
+}
+.ul:hover .dropdown{
+    display:inline;
+}
+

@@ -1,0 +1,36 @@
+#page{
+    width: 70%;
+    margin: 0 auto;
+    min-width: 500px;
+    
+}
+#header{
+    background-color:blueviolet;
+}
+
+
+#main{
+    width: 35%;
+    float: left;
+    margin-right: 5%;
+    
+    
+}
+#second{
+    width:35%;
+    float: left;
+    margin-right: 5%;
+}
+#sidebar{
+    width: 20%;
+    float: left;
+}
+.clear{
+    clear:both;
+   
+}
+#content{
+    background-color:crimson;
+    
+   
+}
